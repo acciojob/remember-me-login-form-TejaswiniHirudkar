@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+body{
+	align-items:center;
+	justify-content:center;
+	margin:auto;
+}
+h1{
+	text-align:center;
+}
+label{
+	color:blue;
+	margin:5px;
+}
+
+input{
+	margin:5px;
+	color:green;
+}
